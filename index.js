@@ -3,9 +3,6 @@ const server = require('./src/app');
 const db = require('./src/db/associations');
 const {SERVER, PORT, DB_RESET} = process.env;
 const axios = require('axios');
-console.log(`${SERVER}
-${PORT}
-${DB_RESET}`);
 let RESET = JSON.parse(DB_RESET);
 
 db.sync(RESET).then(() => {
