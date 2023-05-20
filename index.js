@@ -1,15 +1,13 @@
 require('dotenv').config();
 const server = require('./src/app');
 const db = require('./src/db/associations');
-const {SERVER, PORT} = process.env;
+const {SERVER, PORT, DB_RESET} = process.env;
 const axios = require('axios');
 
-const RESET_DB = { force: false };
-
-db.sync(RESET_DB).then(() => {
+db.sync(DB_RESET).then(() => {
     server.listen(PORT, async () => {
         console.log(`KCBD App on, listening on port ${PORT}`);
         //BULK CREATE
-        if (RESET_DB.force) await axios.post(`${SERVER}/bulk`);
+        if (DB_RESET.force) await axios.post(`${SERVER}/bulk`);
     })
 });
