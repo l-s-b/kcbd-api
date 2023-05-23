@@ -2,7 +2,7 @@
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Lotus Breath, para los apasionados por variedades con mucho sabor, olor y buen viaje🌷💚",
@@ -14,7 +14,8 @@
       "images": ["S1_LB1.webp", "S1_LB2.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
@@ -35,7 +36,8 @@
       "images": ["S2_SD1.webp"]
     },
     "seedpack": {
-      "seedType": "Automática"
+      "seedType": "Automática",
+      "source": "pampa"
     }
   },
   {
@@ -63,7 +65,8 @@
       "images": ["S3_WD1.webp"]
     },
     "seedpack": {
-      "seedType": "Automática"
+      "seedType": "Automática",
+      "source": "pampa"
     }
   },
   {
@@ -88,13 +91,14 @@
       "images": ["S4_AL1.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Blister x3 semillas.",
@@ -106,13 +110,14 @@
       "images": ["S5_AU1.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Una planta hermosa en todo sentido",
@@ -125,7 +130,8 @@
       "images": ["S6_PC1.webp", "S6_PC2.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
@@ -152,7 +158,8 @@
       "images": ["S7_MK1.webp"]
     },
     "seedpack": {
-      "seedType": "Automática"
+      "seedType": "Automática",
+      "source": "pampa"
     }
   },
   {
@@ -178,13 +185,14 @@
       "images": ["S8_WS1.webp"]
     },
     "seedpack": {
-      "seedType": "Automática"
+      "seedType": "Automática",
+      "source": "pampa"
     }
   },
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Blister x3 semillas.",
@@ -196,13 +204,14 @@
       "images": ["S9_TF1.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Blister x3 semillas.",
@@ -216,7 +225,8 @@
       "images": ["S10_PS1.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
@@ -235,13 +245,14 @@
       "images": ["S11_DL1.webp", "S11_DL2.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Cactus Breath #6 x white og v2 x cactus breath #6",
@@ -253,13 +264,14 @@
       "images": ["S12_AN1.webp", "S12_AN2.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Este hibrido tiene mucho de la chocolate mint Og x gorilla scout, altura media y estructura bien ramificada.",
@@ -272,7 +284,8 @@
       "images": ["S13_UK1.webp", "S13_UK2.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
@@ -290,7 +303,8 @@
       "images": ["S14_KD1.webp", "S14_KD2.webp", "S14_KD3.jpg", "S14_KD4.jpg"]
     },
     "seedpack": {
-      "seedType": "Automática"
+      "seedType": "Automática",
+      "source": "sur"
     }
   },
   {
@@ -308,7 +322,8 @@
       "images": ["S15_SR1.webp", "S15_SR2.webp", "S15_SR3.jpg", "S15_SR4.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
@@ -326,13 +341,14 @@
       "images": ["S16_ST1.webp", "S16_ST2.webp"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Nuestra fem mas querida",
@@ -344,7 +360,8 @@
       "images": ["S17_CB1.jpg", "S17_CB2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
     }
   },
   {
@@ -361,7 +378,8 @@
       "images": ["S18_DB1.jpg", "S18_DB2.jpg"]
     },
     "seedpack": {
-      "seedType": "Automática"
+      "seedType": "Automática",
+      "source": "sur"
     }
   },
   {
@@ -378,7 +396,8 @@
       "images": ["S19_SN1.jpg", "S19_SN2.jpg"]
     },
     "seedpack": {
-      "seedType": "Automática"
+      "seedType": "Automática",
+      "source": "sur"
     }
   },
   {
@@ -396,7 +415,8 @@
       "images": ["S20_RH1.jpg", "S20_RH2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
@@ -410,7 +430,8 @@
       "images": ["S21_PU1.jpg", "S21_PU2.jpg"]
     },
     "seedpack": {
-      "seedType": "Automática"
+      "seedType": "Automática",
+      "source": "sur"
     }
   },
   {
@@ -428,7 +449,8 @@
       "images": ["S22_RG1.jpg", "S22_RG2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
@@ -447,7 +469,8 @@
       "images": ["S23_RS1.jpg", "S23_RS2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
@@ -467,7 +490,8 @@
       "images": ["S24_NR1.jpg", "S24_NR2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
@@ -487,7 +511,8 @@
       "images": ["S25_SL1.jpg", "S25_SL2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
@@ -508,7 +533,8 @@
       "images": ["S26_CS1.jpg", "S26_CS2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
@@ -527,7 +553,8 @@
       "images": ["S27_DO1.jpg", "S27_DO2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {
@@ -546,7 +573,8 @@
       "images": ["S28_DD1.jpg", "S28_DD2.jpg"]
     },
     "seedpack": {
-      "seedType": "Fotoperiódica"
+      "seedType": "Fotoperiódica",
+      "source": "sur"
     }
   },
   {

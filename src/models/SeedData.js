@@ -19,6 +19,11 @@ module.exports = SeedData = (sequelize) => {
                 values: ['Automática', 'Fotoperiódica', 'Regular'],
                 allowNull: false,
             },
+            source: {
+                type: DataTypes.ENUM,
+                values: ['pampa', 'sur', 'kundalini'],
+                allowNull: false,
+            },
             thc: {
                 type: DataTypes.ENUM,
                 values: ["Alto", "Medio", "Bajo"],
