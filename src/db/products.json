@@ -233,7 +233,7 @@
     "product": {
       "type": "seedpack",
       "stock": true,
-      "price": 10700,
+      "price": 11500,
       "desc": [
         "En esta ocasión la Chocolate Mint og x Gorilla Scout, la cruzamos por nuestra queridisima Gelato Kush r, (una de las favoritas del equipo Pampa).",
         "El resultado de este trabajo es una planta de estructura y tamaño mediana/ grande, tipo candelabro con muy buena ramificación. De rapidisima floración, y en buenas condiciones, los tricomas se hacen notar a tan solo dos semanas de cambiar el fotoperiodo.",
@@ -440,9 +440,10 @@
       "stock": true,
       "price": 7700,
       "desc": [
-        "Es una variedad que logra la fusión entre La Tangie Ghost Train (clon del Bata sativa) hermoso clon premiado en varias ocasiones. Este nos brinda unos masivos cogollos con sabores a pastel, biscuit de mandarinas, y nuestro clon de red mandarín que aporta tonos sabor a haze, velocidad, coloración y una alta productividad.",
-        "Red Ghost tiene rendimiento exorbitante en exterior e interior, con unos aromas cremosos a naranjados y por momentos a queso.",
-        "Presenta una tolerancia alta a las plagas tanto hongos como a insectos, a su vez tiene una estructura muy fuerte haciendo de ella una planta de muy fácil cultivo. Elegí el fenotipo que mas te guste!"
+        "Es una variedad que logra la fusión entre La Tangie Ghost Train (clon del Bata sativa) hermoso clon premiado en varias ocasiones.",
+        "Éste nos brinda unos masivos cogollos con sabores a pastel, biscuit de mandarinas, y nuestro clon de red mandarín que aporta tonos sabor a haze, velocidad, coloración y una alta productividad.",
+        "Red Ghost tiene rendimiento exorbitante en exterior e interior, con unos aromas cremosos anaranjados y por momentos a queso.",
+        "Presenta una tolerancia alta a las plagas, tanto hongos como insectos, a su vez tiene una estructura muy fuerte, haciendo de ella una planta de muy fácil cultivo. Elegí el fenotipo que mas te guste!"
       ],
       "detail": "Red Ghost Train x3",
       "mainImage": "S22_RG1.jpg",
@@ -460,7 +461,8 @@
       "price": 7700,
       "desc": [
         "Red skittlez brinda buena energía y un subidón espacial que alegra el dia, con un efecto eufórico que te hace cosquillas hasta en el interior del alma, sin dudas les recomendamos hacer uso responsable aunque no es de las más noqueadoras lo cual la hace ideal para disfrutar frutas en el paladar sin que te dejen fuera de juego, especial para usuarios medicinales iniciales.",
-        "Red skittlez te acompaña medicinalmente en tu día con un efecto alegre, te permite concentrarte a la vez de que permite relajar los músculos de las tensiones externas, bajar la ansiedad y aliviar el estrés. recomendada para realizar TAREAS RECREATIVAS relacionadas al arte, sea pintar, o componer música, también tareas que requieran de concentración, energía y entusiasmo.",
+        "Red skittlez te acompaña medicinalmente en tu día con un efecto alegre, te permite concentrarte a la vez de que permite relajar los músculos de las tensiones externas, bajar la ansiedad y aliviar el estrés.",
+        "Recomendada para realizar TAREAS RECREATIVAS relacionadas al arte, sea pintar, o componer música, también tareas que requieran de concentración, energía y entusiasmo.",
         "Como todas nuestras seleccionadas presentan una buena adaptabilidad al clima local de los exteriores de argentina, aunque debemos prevenirla de los pulgones, en interior no presenta dificultad y es cuando mayor sabor logramos obtener de esta variedad, recomendada para cultivadores iniciales en cultivo interior.",
         "Se expresan varios fenotipos, algunos de flor verde con grandes cálices abundantes de resina, y otros con probabilidad del 50 % de flor roja, una verdadera belleza con sabores a ensalada de frutas, agua de sandía, maderas y mandarina haze."
       ],
@@ -502,7 +504,8 @@
       "desc": [
         "Seleccionamos de la mano del Fran, un fenotipo espléndido de una de las genéticas más clásicas y conocidas en el mundo, la super lemon haze de green house.",
         "Después de visitar los coffee de Holanda y probar la original, volvimos Argentina felices de haber confirmado que teníamos en poder un clásico sativo original muy adaptable al clima.",
-        "Elegimos cruzarla y darle un toque distintivo, continuando con la cadena de terpenos limosos y haze, la cruzamos para reversionar y convertirla en la SUPER LEMON RED, este clásico ahora actualizado de flor roja, las probabilidades de que te toquen el fenotipo rojo es del 50% debido al cruce con red mandarine.",
+        "Elegimos cruzarla y darle un toque distintivo, continuando con la cadena de terpenos limosos y haze, la cruzamos para reversionar y convertirla en la SUPER LEMON RED.",
+        "En este clásico ahora actualizado de flor roja, las probabilidades de que te toquen el fenotipo rojo es del 50% debido al cruce con red mandarine.",
         "Es una planta de gran estructura y producción, de fácil cultivo en interior, y en exterior requiere cuidarla de la lluvia ya que sus flores son gigantes.",
         "El sabor es un limón dulce con mezcla de mandarinas y haze core, su potencial medicinal está en sus efectos antidepresivos, muy recomendada para tareas artísticas."
       ],
@@ -579,9 +582,78 @@
   },
   {
     "product": {
-      "type": "oil",
+      "type": "seedpack",
       "stock": true,
       "price": 7500,
+      "desc": [
+        "Blister x3 semillas.",
+        "El mítico Ucumar… una bestia enorme y salvaje, que vive en los montes y cerros del norte argentino.",
+        "A este nuevo hibrido lo nombramos así, por el gran tamaño que logran alcanzar sus ramificaciones, además de poseer vigor, fuerza, producción y resina que envuelve hasta las hojas más grandes.",
+        "Es fácil de cultivar y tiene poca demanda de nutrientes. Sin duda te conquistará al cultivarla.",
+        "El aroma de esta variedad es una mezcla perfecta de sus padres, desde caramelo de limón artificial y pino, hasta cáscara de pomelo ácido.",
+        "Un colocón cerebral y físico, euforico, positivo y alegre."
+    ],
+      "detail": "Ucumar x3",
+      "mainImage": "S29_UC1.jpg",
+      "images": ["S29_UC1.jpg", "S29_UC2.jpg", "pampa.jpg"]
+    },
+    "seedpack": {
+      "seedType": "Fotoperiódica",
+      "source": "pampa"
+    }
+  },
+  {
+    "product": {
+      "type": "seedpack",
+      "stock": false,
+      "price": 10500,
+      "desc": [
+        "Blister x5 semillas.",
+        "En esta interesante hibridación buscamos una cepa con predominancia sativa. El resultado de cinco años de trabajo nos ha premiado con una cepa de rápido e intenso crecimiento con cogollos alargados similares a la campeona Super Lemon Haze. Tiende a espigarse y dominar el resto de una camada de autos con su elegancia, altura y gran producción.",
+        "Aroma: Sobresale el intenso cítrico a limón dulce y un exquisito sabor a queso suave.",
+        "Sabor: Lemon pie y mix de frutos rojos.",
+        "Efecto: inmediato, sensaciones de alegría y euforia rebosante, ideal para comenzar la mañana."
+    ],
+      "detail": "Haze x5",
+      "mainImage": "S30_HZ1.jpg",
+      "images": ["S30_HZ1.jpg", "pampa.jpg"]
+    },
+    "seedpack": {
+      "seedType": "Automática",
+      "source": "pampa"
+    }
+  },
+  {
+    "product": {
+      "type": "seedpack",
+      "stock": false,
+      "price": 10500,
+      "desc": [
+        "BLISTER x5 SEMILLAS.",
+        "VARIEDAD: GIRL SCOUT GORILLA",
+        "MADRE: GORILLA GIRL XL AUTO",
+        "REVERSIÓN: SWEET GELATO",
+        "PRODUCCIÓN: indoor: 350-380gr/m2 - exterior: 35-95gr/planta",
+        "THC: 16,9% - CBD: 0,2%",
+        "AROMA / SABOR: DULCE Y ESPECIADO CON TONOS CITRICOS DE LIMON.",
+        "EFECTO: EUFÓRICO, ANIMADO, ALEGRE.",
+        "SATIVA/INDICA: 45,2% / 52,3%",
+        "TIEMPO DE VIDA TOTAL: 75-90 DIAS."
+    ],
+      "detail": "Girl Scout Gorilla x5",
+      "mainImage": "S31_GS1.jpg",
+      "images": ["S31_GS1.jpg", "pampa.jpg"]
+    },
+    "seedpack": {
+      "seedType": "Automática",
+      "source": "pampa"
+    }
+  },
+  {
+    "product": {
+      "type": "oil",
+      "stock": true,
+      "price": 7700,
       "desc": [],
       "detail": "CBD Karst 45% Pets",
       "mainImage": "A1_P45.jpg",
@@ -596,7 +668,7 @@
     "product": {
       "type": "oil",
       "stock": true,
-      "price": 7500,
+      "price": 7700,
       "desc": [],
       "detail": "CBD Karst 45% Menta",
       "mainImage": "A2_M45.jpg",
@@ -611,7 +683,7 @@
     "product": {
       "type": "oil",
       "stock": true,
-      "price": 13000,
+      "price": 13500,
       "desc": [],
       "detail": "CBD Karst 90% Menta",
       "mainImage": "A3_M90.jpg",
@@ -626,7 +698,7 @@
     "product": {
       "type": "oil",
       "stock": true,
-      "price": 7500,
+      "price": 7700,
       "desc": [],
       "detail": "CBD Karst 45% Frutilla",
       "mainImage": "A4_F45.jpg",
@@ -641,7 +713,7 @@
     "product": {
       "type": "oil",
       "stock": true,
-      "price": 13000,
+      "price": 13500,
       "desc": [],
       "detail": "CBD Karst 90% Frutilla",
       "mainImage": "A5_F90.jpg",
