@@ -651,6 +651,26 @@
   },
   {
     "product": {
+      "type": "seedpack",
+      "stock": true,
+      "price": 7700,
+      "desc": [
+        "Blister x3 semillas.",
+        "Mucho sabor y producción, ideal para el cultivador que le gusta probar cosas nuevas.",
+        "Automática con ciclo total de 80 días",
+        "Probala y enamorate vos también."
+      ],
+      "detail": "Girl Scout Cake x3",
+      "mainImage": "S32_GC1.jpg",
+      "images": ["S32_GC1.jpg", "S32_GC2.jpg"]
+    },
+    "seedpack": {
+      "seedType": "Automática",
+      "source": "pampa"
+    }
+  },
+  {
+    "product": {
       "type": "oil",
       "stock": true,
       "price": 7700,
