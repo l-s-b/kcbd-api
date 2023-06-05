@@ -10,8 +10,8 @@ const ENTITY = "Product"
 
 const PRODUCT_ORDER = {
     order: [
-        ["stock", "DESC"]
-        ["id", "ASC"],
+        ["stock", "DESC"],
+        ["id", "ASC"]
     ]
 }
 
