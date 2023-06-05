@@ -8,10 +8,17 @@ const { SERVER } = process.env;
 
 const ENTITY = "Product"
 
+const PRODUCT_ORDER = {
+    order: [
+        ["id", "ASC"],
+        ["stock", "DESC"]
+    ]
+}
+
 const getProducts = async (req, res) => {
 /* DO NOT POPULATE PRODUCTS HERE (or only if needed) */
     try {
-        const products = await Product.findAll()
+        const products = await Product.findAll(PRODUCT_ORDER)
         res.status(200).send(products)
     } catch (error) {
         console.error(error)
@@ -34,7 +41,7 @@ const filterProducts = async (req, res) => {
         const products = await Product.findAll({
             include,
             where: sequelizeWhere,
-            order
+            ...PRODUCT_ORDER
         })
         res.status(200).send(products)
     } catch (error) {
