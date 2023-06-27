@@ -8,6 +8,9 @@ const {
     deleteProduct,
     postBulk
 } = require('../controllers/products');
+const {
+    postPreference
+} = require('../controllers/mp');
 const router = Router();
 
 router.get("/", (req, res) => {
@@ -20,7 +23,8 @@ router.get("/product/:id", getProductByID);
 router.post("/product", postProduct);
 router.patch("/product/:id?", patchProduct);
 router.delete("/product/:id?", deleteProduct);
+router.post("/bulk", postBulk);
 
-router.post("/bulk", postBulk)
+router.post("/create_preference", postPreference);
 
 module.exports = router;
