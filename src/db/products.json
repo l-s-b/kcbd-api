@@ -21,7 +21,7 @@
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Su elevado contenido de CBD y bajísimos porcentajes de THC la hacen diferente a la mayoría de las autoflorecientes. Las Crystal Med con niveles más altos de CBD han llegado casi al 20%, pero han salido camadas más recientes que midieron entre 8% y 14%. Por otra parte, el nivel mínimo de THC que obtuvimos fue de 1,1%, pero hay ejemplares que han llegado a 2,5% y casi 3%.",
@@ -43,7 +43,7 @@
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Blister x3 semillas.",
@@ -72,7 +72,7 @@
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Blister x3 semillas.",
@@ -137,7 +137,7 @@
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 9700,
       "desc": [
         "Blister x5 semillas.",
@@ -165,7 +165,7 @@
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7700,
       "desc": [
         "Blister x3 semillas.",
@@ -232,7 +232,7 @@
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 11500,
       "desc": [
         "En esta ocasión la Chocolate Mint og x Gorilla Scout, la cruzamos por nuestra queridisima Gelato Kush r, (una de las favoritas del equipo Pampa).",
@@ -300,7 +300,7 @@
       ],
       "detail": "Kush Delicius x3",
       "mainImage": "S14_KD1.webp",
-      "images": ["S14_KD1.webp", "S14_KD2.webp", "S14_KD3.jpg", "S14_KD4.jpg"]
+      "images": ["S14_KD1.webp", "S14_KD2.webp", "S14_KD3.webp", "S14_KD4.webp"]
     },
     "seedpack": {
       "seedType": "Automática",
@@ -319,7 +319,7 @@
       ],
       "detail": "Summer Rainbows x3",
       "mainImage": "S15_SR1.webp",
-      "images": ["S15_SR1.webp", "S15_SR2.webp", "S15_SR3.jpg", "S15_SR4.jpg"]
+      "images": ["S15_SR1.webp", "S15_SR2.webp", "S15_SR3.webp", "S15_SR4.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -356,8 +356,8 @@
         "Una belleza❤️"
       ],
       "detail": "Cactus Breath x3",
-      "mainImage": "S17_CB1.jpg",
-      "images": ["S17_CB1.jpg", "S17_CB2.jpg"]
+      "mainImage": "S17_CB1.webp",
+      "images": ["S17_CB1.webp", "S17_CB2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -374,8 +374,8 @@
         "Un aroma floral y fresco, con notas agridulces. Dejate tentar 🙌🌷"
       ],
       "detail": "Durban Blue Widow x3",
-      "mainImage": "S18_DB1.jpg",
-      "images": ["S18_DB1.jpg", "S18_DB2.jpg"]
+      "mainImage": "S18_DB1.webp",
+      "images": ["S18_DB1.webp", "S18_DB2.webp"]
     },
     "seedpack": {
       "seedType": "Automática",
@@ -392,8 +392,8 @@
         "Dejate enamorar por esta variedad, es una bomba de energía!!"
       ],
       "detail": "Super Neville Cheese x3",
-      "mainImage": "S19_SN1.jpg",
-      "images": ["S19_SN1.jpg", "S19_SN2.jpg"]
+      "mainImage": "S19_SN1.webp",
+      "images": ["S19_SN1.webp", "S19_SN2.webp"]
     },
     "seedpack": {
       "seedType": "Automática",
@@ -411,8 +411,8 @@
         "Presenta una resina muy oleosa, que va de viscosa a casi líquida, con un alto contenido de terpenos."
       ],
       "detail": "Red Hawaiian Snow x3",
-      "mainImage": "S20_RH1.jpg",
-      "images": ["S20_RH1.jpg", "S20_RH2.jpg"]
+      "mainImage": "S20_RH1.webp",
+      "images": ["S20_RH1.webp", "S20_RH2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -426,8 +426,8 @@
       "price": 7700,
       "desc": ["Automática de 90 días", "Flor morada, mucho CBD"],
       "detail": "Purple CBD x3",
-      "mainImage": "S21_PU1.jpg",
-      "images": ["S21_PU1.jpg", "S21_PU2.jpg"]
+      "mainImage": "S21_PU1.webp",
+      "images": ["S21_PU1.webp", "S21_PU2.webp"]
     },
     "seedpack": {
       "seedType": "Automática",
@@ -446,8 +446,8 @@
         "Presenta una tolerancia alta a las plagas, tanto hongos como insectos, a su vez tiene una estructura muy fuerte, haciendo de ella una planta de muy fácil cultivo. Elegí el fenotipo que mas te guste!"
       ],
       "detail": "Red Ghost Train x3",
-      "mainImage": "S22_RG1.jpg",
-      "images": ["S22_RG1.jpg", "S22_RG2.jpg"]
+      "mainImage": "S22_RG1.webp",
+      "images": ["S22_RG1.webp", "S22_RG2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -467,8 +467,8 @@
         "Se expresan varios fenotipos, algunos de flor verde con grandes cálices abundantes de resina, y otros con probabilidad del 50 % de flor roja, una verdadera belleza con sabores a ensalada de frutas, agua de sandía, maderas y mandarina haze."
       ],
       "detail": "Red Skittlez x3",
-      "mainImage": "S23_RS1.jpg",
-      "images": ["S23_RS1.jpg", "S23_RS2.jpg"]
+      "mainImage": "S23_RS1.webp",
+      "images": ["S23_RS1.webp", "S23_RS2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -488,8 +488,8 @@
         "🫶Un efecto completo🌱"
       ],
       "detail": "Nieve Roja x3",
-      "mainImage": "S24_NR1.jpg",
-      "images": ["S24_NR1.jpg", "S24_NR2.jpg"]
+      "mainImage": "S24_NR1.webp",
+      "images": ["S24_NR1.webp", "S24_NR2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -510,8 +510,8 @@
         "El sabor es un limón dulce con mezcla de mandarinas y haze core, su potencial medicinal está en sus efectos antidepresivos, muy recomendada para tareas artísticas."
       ],
       "detail": "Super Lemon Red x3",
-      "mainImage": "S25_SL1.jpg",
-      "images": ["S25_SL1.jpg", "S25_SL2.jpg"]
+      "mainImage": "S25_SL1.webp",
+      "images": ["S25_SL1.webp", "S25_SL2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -532,8 +532,8 @@
         "Medicinalmente lo mejor que encontramos para tratar insomnio y ansiedad, además se muestra en pacientes una notoria apertura del apetito, ideal para casos medicinales donde la pérdida de apetito no favorece la recuperación."
       ],
       "detail": "Citric Sherbert x3",
-      "mainImage": "S26_CS1.jpg",
-      "images": ["S26_CS1.jpg", "S26_CS2.jpg"]
+      "mainImage": "S26_CS1.webp",
+      "images": ["S26_CS1.webp", "S26_CS2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -552,8 +552,8 @@
         "En puntos de corte más tardíos y en dosis más elevadas puede aplicarse para tratar insomnio, esta obra de arte alcanza niveles de T H C superiores al 22 % según medios y métodos de cultivo y un gran retorno en extracciones."
       ],
       "detail": "DoSiRed x3",
-      "mainImage": "S27_DO1.jpg",
-      "images": ["S27_DO1.jpg", "S27_DO2.jpg"]
+      "mainImage": "S27_DO1.webp",
+      "images": ["S27_DO1.webp", "S27_DO2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -572,8 +572,8 @@
         "Variedad con una cantidad impresionante de aceites esenciales y terpenos del tipo limoneno. Medicinalmente es ideal para tratar ansiedad y/o depresión."
       ],
       "detail": "Dr. Dog Mandarine x3",
-      "mainImage": "S28_DD1.jpg",
-      "images": ["S28_DD1.jpg", "S28_DD2.jpg"]
+      "mainImage": "S28_DD1.webp",
+      "images": ["S28_DD1.webp", "S28_DD2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -583,7 +583,7 @@
   {
     "product": {
       "type": "seedpack",
-      "stock": true,
+      "stock": false,
       "price": 7500,
       "desc": [
         "Blister x3 semillas.",
@@ -594,8 +594,8 @@
         "Un colocón cerebral y físico, euforico, positivo y alegre."
     ],
       "detail": "Ucumar x3",
-      "mainImage": "S29_UC1.jpg",
-      "images": ["S29_UC1.jpg", "S29_UC2.jpg", "pampa.jpg"]
+      "mainImage": "S29_UC1.webp",
+      "images": ["S29_UC1.webp", "S29_UC2.webp", "pampa.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
@@ -615,8 +615,8 @@
         "Efecto: inmediato, sensaciones de alegría y euforia rebosante, ideal para comenzar la mañana."
     ],
       "detail": "Haze x5",
-      "mainImage": "S30_HZ1.jpg",
-      "images": ["S30_HZ1.jpg", "pampa.jpg"]
+      "mainImage": "S30_HZ1.webp",
+      "images": ["S30_HZ1.webp", "pampa.webp"]
     },
     "seedpack": {
       "seedType": "Automática",
@@ -641,8 +641,8 @@
         "TIEMPO DE VIDA TOTAL: 75-90 DIAS."
     ],
       "detail": "Girl Scout Gorilla x5",
-      "mainImage": "S31_GS1.jpg",
-      "images": ["S31_GS1.jpg", "pampa.jpg"]
+      "mainImage": "S31_GS1.webp",
+      "images": ["S31_GS1.webp", "pampa.webp"]
     },
     "seedpack": {
       "seedType": "Automática",
@@ -661,8 +661,8 @@
         "Probala y enamorate vos también."
       ],
       "detail": "Girl Scout Cake x3",
-      "mainImage": "S32_GC1.jpg",
-      "images": ["S32_GC1.jpg", "S32_GC2.jpg"]
+      "mainImage": "S32_GC1.webp",
+      "images": ["S32_GC1.webp", "S32_GC2.webp"]
     },
     "seedpack": {
       "seedType": "Automática",
@@ -673,11 +673,11 @@
     "product": {
       "type": "oil",
       "stock": true,
-      "price": 7700,
+      "price": 7900,
       "desc": [],
       "detail": "CBD Karst 45% Pets",
-      "mainImage": "A1_P45.jpg",
-      "images": ["A1_P45.jpg"]
+      "mainImage": "A1_P45.webp",
+      "images": ["A1_P45.webp"]
     },
     "oil": {
       "flavor": "Carne (para mascotas)",
@@ -688,11 +688,11 @@
     "product": {
       "type": "oil",
       "stock": true,
-      "price": 7700,
+      "price": 7900,
       "desc": [],
       "detail": "CBD Karst 45% Menta",
-      "mainImage": "A2_M45.jpg",
-      "images": ["A2_M45.jpg"]
+      "mainImage": "A2_M45.webp",
+      "images": ["A2_M45.webp"]
     },
     "oil": {
       "flavor": "Menta",
@@ -706,8 +706,8 @@
       "price": 13500,
       "desc": [],
       "detail": "CBD Karst 90% Menta",
-      "mainImage": "A3_M90.jpg",
-      "images": ["A3_M90.jpg"]
+      "mainImage": "A3_M90.webp",
+      "images": ["A3_M90.webp"]
     },
     "oil": {
       "flavor": "Menta",
@@ -718,11 +718,11 @@
     "product": {
       "type": "oil",
       "stock": true,
-      "price": 7700,
+      "price": 7900,
       "desc": [],
       "detail": "CBD Karst 45% Frutilla",
-      "mainImage": "A4_F45.jpg",
-      "images": ["A4_F45.jpg"]
+      "mainImage": "A4_F45.webp",
+      "images": ["A4_F45.webp"]
     },
     "oil": {
       "flavor": "Frutilla",
@@ -736,8 +736,8 @@
       "price": 13500,
       "desc": [],
       "detail": "CBD Karst 90% Frutilla",
-      "mainImage": "A5_F90.jpg",
-      "images": ["A5_F90.jpg"]
+      "mainImage": "A5_F90.webp",
+      "images": ["A5_F90.webp"]
     },
     "oil": {
       "flavor": "Frutilla",
@@ -748,11 +748,11 @@
     "product": {
       "type": "lotion",
       "stock": true,
-      "price": 5500,
+      "price": 5600,
       "desc": [],
       "detail": "Crema CBD Karst 45%",
-      "mainImage": "L1_45.jpg",
-      "images": ["L1_45.jpg"]
+      "mainImage": "L1_45.webp",
+      "images": ["L1_45.webp"]
     },
     "lotion": {
       "concentration": 45
