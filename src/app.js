@@ -8,7 +8,7 @@ server.use(express.urlencoded({ extended: true, limit: '50mb' }));
 server.use(express.json({ limit: '50mb' }));
 server.use(cookieParser());
 server.use(function(req, res, next) {
-  const allowedOrigins = ['http://localhost:3000', 'https://kundalinicbd.com'];
+  const allowedOrigins = ['http://localhost:3000', 'https://kundalinicbd.com', 'https://kundalinicbd.vercel.app'];
   const requestOrigin = req.headers.origin;
 
   if (allowedOrigins.includes(requestOrigin)) {
