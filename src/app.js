@@ -7,15 +7,15 @@ const server = express();
 server.use(express.urlencoded({ extended: true, limit: '50mb' }));
 server.use(express.json({ limit: '50mb' }));
 server.use(cookieParser());
-server.use(function(req, res, next) {
+server.use(async function(req, res, next) {
   const allowedOrigins = ['http://localhost:3000', 'https://kundalinicbd.com', 'https://kundalinicbd.vercel.app'];
   const requestOrigin = req.headers.origin;
 
   if (allowedOrigins.includes(requestOrigin)) {
-    res.setHeader('Access-Control-Allow-Origin', requestOrigin);
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, PATCH, DELETE, OPTIONS');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
-    res.setHeader('Access-Control-Allow-Credentials', true);
+    await res.setHeader('Access-Control-Allow-Origin', requestOrigin);
+    await res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, PATCH, DELETE, OPTIONS');
+    await res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+    await res.setHeader('Access-Control-Allow-Credentials', true);
   }
 
   next();
