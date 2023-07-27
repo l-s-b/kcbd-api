@@ -300,7 +300,7 @@
       ],
       "detail": "Kush Delicius x3",
       "mainImage": "S14_KD1.webp",
-      "images": ["S14_KD1.webp", "S14_KD2.webp", "S14_KD3.webp", "S14_KD4.webp"]
+      "images": ["S14_KD1.webp", "S14_KD2.webp"]
     },
     "seedpack": {
       "seedType": "Automática",
@@ -319,7 +319,7 @@
       ],
       "detail": "Summer Rainbows x3",
       "mainImage": "S15_SR1.webp",
-      "images": ["S15_SR1.webp", "S15_SR2.webp", "S15_SR3.webp", "S15_SR4.webp"]
+      "images": ["S15_SR1.webp", "S15_SR2.webp"]
     },
     "seedpack": {
       "seedType": "Fotoperiódica",
