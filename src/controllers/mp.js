@@ -15,7 +15,7 @@ const postPreference = async (req, res) => {
             }
         ],
         back_urls: {
-            success: FRONTEND,
+            success: FRONTEND + '/compra-exitosa',
             failure: FRONTEND,
             pending: ''
         },
