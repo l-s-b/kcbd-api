@@ -3,6 +3,7 @@ const morgan = require('morgan');
 const cookieParser = require('cookie-parser');
 const router = require('./routes')
 const server = express();
+const { cron } = require('./controllers/cron');
 
 server.use(express.urlencoded({ extended: true, limit: '50mb' }));
 server.use(express.json({ limit: '50mb' }));
@@ -22,5 +23,6 @@ server.use(async function(req, res, next) {
 })
 server.use(morgan("dev"));
 server.use(router)
+cron();
 
 module.exports = server;
