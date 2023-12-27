@@ -11,7 +11,7 @@ module.exports = Product = (sequelize) => {
         },
         type: {
             type: DataTypes.ENUM,
-            values: ['seedpack', 'oil', 'lotion'],
+            values: ['seedpack', 'oil', 'lotion', 'merch'],
             allowNull: false,
         },
         stock: {
