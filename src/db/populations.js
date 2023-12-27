@@ -1,4 +1,4 @@
-const { SeedData, OilData, LotionData } = require('./models').models;
+const { SeedData, OilData, LotionData, MerchData } = require('./models').models;
 
 module.exports = {
     "seedpack": {
@@ -21,5 +21,12 @@ module.exports = {
             as: "lotion"
         },
         setMethod: "setLotion"
+    },
+    "merch": {
+        include: {
+            model: MerchData,
+            as: "merch"
+        },
+        setMethod: "setMerch"
     }
 }
