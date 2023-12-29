@@ -17,6 +17,10 @@ router.get("/", (req, res) => {
     res.status(200).send('200 OK - Home')
 });
 
+router.get("/cron", (req, res) => {
+    res.status(200).send('Keep-alive cron')
+});
+
 router.get("/products", getProducts);
 router.get("/products/filter", filterProducts);
 router.get("/product/:id", getProductByID);
