@@ -10,11 +10,11 @@ module.exports = User = (sequelize) => {
                 primaryKey: true,
                 unique: true
             },
-            firstName: {
+            username: {
                 type: DataTypes.STRING,
                 allowNull: false
             },
-            lastName: {
+            password: {
                 type: DataTypes.STRING,
                 allowNull: false
             },
