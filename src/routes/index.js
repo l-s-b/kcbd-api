@@ -34,7 +34,7 @@ router.get("/products", getProducts);
 router.get("/products/filter", filterProducts);
 router.get("/product/:id", getProductByID);
 router.post("/product", checkAuth, postProduct);
-router.patch("/product/:id?", checkAuth, patchProduct);
+router.patch("/product/:id?", patchProduct);
 router.delete("/product/:id?", checkAuth, deleteProduct);
 router.post("/bulk", checkAuth, postBulk);
 // MP CHECKOUT
